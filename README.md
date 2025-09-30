@@ -1,4 +1,3 @@
-# Finance-Dashboard-
 # Power BI Finance Dashboard 
 
 <img width="1280" height="712" alt="Image" src="https://github.com/user-attachments/assets/ee603d89-4e33-49fe-88ca-a5039146203a" />
